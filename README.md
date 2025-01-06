@@ -24,7 +24,9 @@ Once drivers are installed, click the start button and type "USB Game Controller
 <b>Leave this device window open</b>, plug the mono plug into the rc transmitter, and proceed to the next section to configure the transmitter.
 
 # configure Transmitter
-Be advised that I was only able to achieve 7 channels output on my x9d, although I believe with some work I could get an 8th channel working. However, the 7th channel takes some calibration work and it is much simpler to configure only 6 channels if possible. 
+Be advised that I was only able to achieve 7 channels output on my x9d, although I believe with some work I could get an 8th channel working. However, the 7th channel takes some calibration work and it is much simpler to configure only 6 channels if possible. TODO: add notes for Ch7/8.
+
+For this step be sure to turn on the transmitter if it is not already on, and have the adapter cable plugged into the 3.5mm trainer port labeled DSC. The adapter typically comes with additional adapters that look like a large and a small ps/2 plug, intended I believe for older transmitters such as Futaba or 
 
 First, in the x9d, create a new model or copy a basic plane model to an open slot. On Page 2 (model setup), set a name and scroll down to RF settings.
 Internal RF: Mode OFF. 
