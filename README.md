@@ -1,7 +1,7 @@
 # flysky sm100
 my notes and software for the flysky sm100 usb adapter. these are the settings and actions I used to successfully configure my FrSky Taranis x9d as a game controller in Windows 10 to fly aircraft in the following simulators:
--RealFlight 9.5
--Tryp FPV
+<li>-RealFlight 9.5</li>
+<li>-Tryp FPV</li>
 
 # purchase
 Flysky sm100 usb simulator adapter is a device commonly found on ebay, which allows drone pilots and rc pilots to connect their radio transmitters to a computer. One end connects to the usb port of a windows pc, the other end is a mono audio signal cable 3.5mm plug which plugs into the trainer port on the rc transmitter. on the X9D, looking at the back it is the port on the left labeled DSC. The other port is for headphones and will have the headphones logo pictured above it, and will not work for these purposes. 
